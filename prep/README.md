@@ -1,7 +1,5 @@
 # README
 
-Use the `prep/` folder to organize and explore data for your OHI assessment. 
+This folder is to prepare data for the Toolbox. Files within this `prep` folder will also sync with GitHub. 
 
-It is best to script (for example, in the R programming language) as much as you can so that it is transparent and reproducible. 
-
-The [OHI Manual R tutorials for OHI](http://ohi-science.org/manual/#appendix-5-r-tutorials-for-ohi) has instruction and resources about how to work with data in R. 
+Avoid .xls and .doc files if possible, as GitHub has trouble with large files.  
